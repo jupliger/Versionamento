@@ -1,1 +1,9 @@
-Esse aqui é o código principal, devemos colocar nossas informações aqui: 
+mensagem: "olá pedro Benko!!, tudo bom?"
+
+Juliana, 25 anos
+
+ Hobbies: 
+
+- Jogar!
+- Comer Pizza!
+- Ver series!
